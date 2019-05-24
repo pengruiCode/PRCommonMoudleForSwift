@@ -1,0 +1,28 @@
+PODS:
+  - MBProgressHUD (0.9.2)
+  - SnapKit (4.2.0)
+  - Toast (3.1.0)
+  - UIColor_Hex_Swift (4.2.0)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 0.9.2)
+  - SnapKit
+  - Toast (~> 3.0)
+  - UIColor_Hex_Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MBProgressHUD
+    - SnapKit
+    - Toast
+    - UIColor_Hex_Swift
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  UIColor_Hex_Swift: bc07fc197421ee896b9ed6dcfa2054b7fbf75145
+
+PODFILE CHECKSUM: d56b61bf7f10a0ce73bf009662b7e541bc6e9e6b
+
+COCOAPODS: 1.5.3

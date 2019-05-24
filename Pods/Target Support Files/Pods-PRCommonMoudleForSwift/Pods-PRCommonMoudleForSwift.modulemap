@@ -1,0 +1,6 @@
+module Pods_PRCommonMoudleForSwift {
+  umbrella header "Pods-PRCommonMoudleForSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
